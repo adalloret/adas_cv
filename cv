@@ -1,0 +1,62 @@
+\documentclass[10pts]{report}
+\usepackage[T1]{fontenc}
+\usepackage[left=3cm,right=3cm,top=2cm,bottom=2cm]{geometry}
+\usepackage{hyperref}
+\usepackage{ragged2e}
+
+\begin{document}
+
+    \section*{\centering{Ada Lloret\\Data Analyst}}
+	
+	\centering{\href{adalloret20@gmail.com}{adalloret20@gmail.com} | +57 304 264 7592 | \href{https://www.linkedin.com/in/adalloret/}{LinkedIn} | \href{https://github.com/adalloret}{GitHub}
+
+	\hrulefill
+    
+    \justifying
+    
+    \subsection*{Professional Summary \hrulefill}
+    Data Analyst with hands-on experience in Python, SQL, Power BI and business analytics. Experienced in data cleaning, exploratory analysis, dashboard development, and reporting. Strong analytical mindset. Looking for a degree in Data Science and an entry-level Data Analyst role where I can help drive data-informed business decisions.  
+    
+    \subsection*{Education \hrulefill}
+	
+		\textbf{Bachelor's degree in Data Science}\\ 
+        \textit{Universidad de La Salle | Bogotá | Expected 2030}\vspace{0.1cm}\\
+		Currently pursuing a Bachelor's degree in Data Science, building a strong foundation in mathematics, statistics, programming, databases, and machine learning. Developing analytical and problem-solving skills through coursework in data analysis, statistical modeling, and artificial intelligence.\vspace{0.1cm}\\
+        %%
+        \textbf{\href{https://drive.google.com/file/d/1nl1A8R3yY8NGiXsdoIKvZz8lD0nn2784/view?usp=sharing}{Data Analytics Bootcamp}}\\
+		\textit{TripleTen | Remote | 2025-2026}\vspace{0.1cm}\\
+        Completed an intensive project-based Data Analytics bootcamp covering Python, SQL, statistical analysis, data wrangling, machine learning fundamentals, business analytics, automation, and predictive modeling. Applied these skills through multiple end-to-end analytics projects using real-world datasets.
+        
+    \subsection*{Technical Experience\hrulefill}
+    
+        \textbf{\href{https://github.com/adalloret/spotify_streaming_audit}{Data Hackathon}}\\
+        \textit{Participant 2026}\vspace{0.1cm}\\
+        Collaborated with a multidisciplinary team to develop a data-driven solution within a limited time frame.Performed data preparation, analysis, and visualization to support project objectives. Presented findings and recommendations to judges and participants.
+        \vspace{0.1cm}\\
+        %%
+        \textbf{\href{https://github.com/adalloret/marketing-performance-analysis}{Marketing Performance Analysis}}\\
+        \textit{Data Analytics Project}\vspace{0.1cm}\\
+        Analyzed the performance of multiple marketing sources through business metrics, CAC(Customer Acquisition Cost), LTV(Lifetime Value), and ROMI (Return on Marketing Investment) using data from user sessions, orders, and marketing costs for an online store.\vspace{0.1cm}
+        %%
+
+    \subsection*{Certifications \hrulefill}
+        \begin{itemize}
+            \item \href{https://achieve.snowflake.com/3ef60fdd-a878-4d51-b013-99d0857bee19#acc.vZVj9T2q}{Data Warehousing Workshop |  Snowflake}\\
+            \item \href{https://cert.efset.org/mZ1Akd}{English Certificate (C1 Advanced | EF Set}\\
+            \item \href{https://platzi.com/p/adalloret20/curso/10200-course/diploma/detalle/}{Power BI Course | Platzi}
+        \end{itemize}
+        
+\subsection*{Skills and Languages \hrulefill}
+    \begin{itemize}
+        \item\textbf{Programming}
+        \textit{Python, SQL}\vspace{0.1cm}\\
+        \item\textbf{Analytics}
+        \textit{EDA, Statistical Analysis, A/B Testing}\vspace{0.1cm}\\
+        \item\textbf{Databases and Visualization}
+        \textit{BigQuery, Snowflake, Tableau, PowerBI}\vspace{0.1cm}\\
+        \item\textbf{Tools}
+        \textit{Excel, Google Sheets, Git}\vspace{0.1cm}\\
+        \item\textbf{Languages}
+        \textit{Spanish,  English}\vspace{0.1cm}\\
+    \end{itemize}
+\end{document}
